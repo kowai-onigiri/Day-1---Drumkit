@@ -12,3 +12,5 @@ I learned the following from this project:
 Any Issues?
 --At first, I couldn't figure out why the 'playing' class wouldn't remove according to the function. I had everything as it should be, and everything else was working properly. 
 Finally, I moved the script to the bottom of the body tag instead of in the header tag, and that fixed it right up.
+
+https://kowai-onigiri.github.io/Day-1---Drumkit/
